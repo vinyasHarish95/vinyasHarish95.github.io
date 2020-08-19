@@ -9,7 +9,7 @@ Author: themehippo.com
 # [Color codes]
 
 # Body  (text): #3a4750
-# Heading Color #444444
+# Heading Color #009999
 # Theme Color (link color) #82b541
 # Mid grey (sub header) #f4f4f4
 # Background Color #ffffff
@@ -30,7 +30,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     margin : 0 0 15px;
-    color  : #2b2b3d;
+    color  : #00cccc;
     }
 
 h1 {
@@ -43,6 +43,7 @@ h2 {
     font-size   : 18px;
     line-height : 1.8em;
     font-weight : 700;
+    color  : #00802b !important;
     }
 
 h3 {
